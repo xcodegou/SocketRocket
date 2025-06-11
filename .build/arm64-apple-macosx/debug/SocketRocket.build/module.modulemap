@@ -1,0 +1,4 @@
+module SocketRocket {
+    umbrella header "/Users/xcode/Desktop/work/SPM/Dependencies/SocketRocket/SocketRocket/include/SocketRocket.h"
+    export *
+}
