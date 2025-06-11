@@ -16,9 +16,9 @@ let package = Package(
         .target(
             name: "SocketRocket",
             dependencies: [],
-            path: "SocketRocket",
-            sources: [".", "../SocketRocket_Internal"],
-            publicHeadersPath: "."
+            path: ".",
+            sources: ["SocketRocket", "SocketRocket_Internal"],
+            publicHeadersPath: "SocketRocket"
         )
     ]
 ) 
