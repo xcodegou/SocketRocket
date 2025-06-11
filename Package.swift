@@ -18,7 +18,7 @@ let package = Package(
             dependencies: [],
             path: ".",
             sources: ["SocketRocket", "SocketRocket_Internal"],
-            publicHeadersPath: "."
+            publicHeadersPath: "include"
         )
     ]
 ) 
